@@ -9,11 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorApp
 build_property.RootNamespace = BlazorApp
-build_property.ProjectDir = C:\Users\austi\Source\Repos\Resume-Projects\BlazorApp\
+build_property.ProjectDir = C:\Users\austi\source\repos\Resume-Projects\BlazorApp\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\austi\Source\Repos\Resume-Projects\BlazorApp
+build_property.MSBuildProjectDirectory = C:\Users\austi\source\repos\Resume-Projects\BlazorApp
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/austi/source/repos/Resume-Projects/BlazorApp/App.razor]
@@ -30,6 +30,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/austi/source/repos/Resume-Projects/BlazorApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/austi/source/repos/Resume-Projects/BlazorApp/Pages/Todo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/austi/source/repos/Resume-Projects/BlazorApp/Shared/SurveyPrompt.razor]
