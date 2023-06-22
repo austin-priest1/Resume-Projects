@@ -1,0 +1,12 @@
+C:\Users\austi\source\repos\Resume-Projects\WorkTracker\WorkTracker\Shared\bin\Debug\net7.0\WorkTracker.Shared.deps.json
+C:\Users\austi\source\repos\Resume-Projects\WorkTracker\WorkTracker\Shared\bin\Debug\net7.0\WorkTracker.Shared.dll
+C:\Users\austi\source\repos\Resume-Projects\WorkTracker\WorkTracker\Shared\bin\Debug\net7.0\WorkTracker.Shared.pdb
+C:\Users\austi\source\repos\Resume-Projects\WorkTracker\WorkTracker\Shared\obj\Debug\net7.0\WorkTracker.Shared.csproj.AssemblyReference.cache
+C:\Users\austi\source\repos\Resume-Projects\WorkTracker\WorkTracker\Shared\obj\Debug\net7.0\WorkTracker.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\austi\source\repos\Resume-Projects\WorkTracker\WorkTracker\Shared\obj\Debug\net7.0\WorkTracker.Shared.AssemblyInfoInputs.cache
+C:\Users\austi\source\repos\Resume-Projects\WorkTracker\WorkTracker\Shared\obj\Debug\net7.0\WorkTracker.Shared.AssemblyInfo.cs
+C:\Users\austi\source\repos\Resume-Projects\WorkTracker\WorkTracker\Shared\obj\Debug\net7.0\WorkTracker.Shared.csproj.CoreCompileInputs.cache
+C:\Users\austi\source\repos\Resume-Projects\WorkTracker\WorkTracker\Shared\obj\Debug\net7.0\WorkTracker.Shared.dll
+C:\Users\austi\source\repos\Resume-Projects\WorkTracker\WorkTracker\Shared\obj\Debug\net7.0\refint\WorkTracker.Shared.dll
+C:\Users\austi\source\repos\Resume-Projects\WorkTracker\WorkTracker\Shared\obj\Debug\net7.0\WorkTracker.Shared.pdb
+C:\Users\austi\source\repos\Resume-Projects\WorkTracker\WorkTracker\Shared\obj\Debug\net7.0\ref\WorkTracker.Shared.dll
