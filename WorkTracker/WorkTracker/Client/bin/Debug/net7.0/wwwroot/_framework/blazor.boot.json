@@ -202,14 +202,14 @@
       "netstandard.dll": "sha256-OYYuPT3JUknj4LdYIa58zF7kDB3tCnLzjCSuhEjtKXM=",
       "System.Private.CoreLib.dll": "sha256-EVS7zPxPV\/41g2mzPwdXtwiigWxI\/SeAHme1IgyD6tc=",
       "WorkTracker.Shared.dll": "sha256-sUvfjZriGwVVJ+Jj2DhYYmHyyOLJWywCWpvNC\/rILFI=",
-      "WorkTracker.Client.dll": "sha256-FraEDNOgX0kF6sGByS9VzzHsnPouUkGCiP4sEFcJXCQ="
+      "WorkTracker.Client.dll": "sha256-e+Rhx6dg6J1GtnzHaHzETl5ONSUrk\/PppJN\/S8xzBQg="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "WorkTracker.Shared.pdb": "sha256-fK15NFbSB22BXAvu9WMAhn3dJpjkcLWIyNuY8LdKTvU=",
-      "WorkTracker.Client.pdb": "sha256-HmAGpIvH+i4RTe6pFid2Txe3JcanJ3515IhLWlbNMcQ="
+      "WorkTracker.Client.pdb": "sha256-TTyseogXbpMYq32u92649HI9Naw9XbFK\/An6bzCL2SI="
     },
     "runtime": {
       "dotnet.7.0.5.npuo2g5uro.js": "sha256-codB25EodaFEP43MDCfMBuKXU4LqurUKnQrpoMIFnPs=",
