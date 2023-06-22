@@ -20,8 +20,32 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/austi/source/repos/Resume-Projects/IdentityManagerLibrary/IdentityManagerBlazorServer/Components/CreateRole.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDcmVhdGVSb2xlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/austi/source/repos/Resume-Projects/IdentityManagerLibrary/IdentityManagerBlazorServer/Components/CreateUser.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDcmVhdGVVc2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/austi/source/repos/Resume-Projects/IdentityManagerLibrary/IdentityManagerBlazorServer/Components/EditUser.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFZGl0VXNlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/austi/source/repos/Resume-Projects/IdentityManagerLibrary/IdentityManagerBlazorServer/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/austi/source/repos/Resume-Projects/IdentityManagerLibrary/IdentityManagerBlazorServer/Pages/Roles.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUm9sZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/austi/source/repos/Resume-Projects/IdentityManagerLibrary/IdentityManagerBlazorServer/Pages/Users.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/austi/source/repos/Resume-Projects/IdentityManagerLibrary/IdentityManagerBlazorServer/Shared/CheckBoxList.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENoZWNrQm94TGlzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/austi/source/repos/Resume-Projects/IdentityManagerLibrary/IdentityManagerBlazorServer/Shared/LoginDisplay.razor]
